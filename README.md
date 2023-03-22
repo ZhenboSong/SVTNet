@@ -1,4 +1,4 @@
-# SVT-Net:  A Super Light-Weight Network  for Large Scale Place Recognition using Sparse Voxel Transformers
+# SVT-Net
 
 ![Overview](media/overview.png)
 
